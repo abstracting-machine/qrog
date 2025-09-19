@@ -1,1 +1,1 @@
-### Thingking Machine (qrog)
+### Abstracting Machine (qrog)
